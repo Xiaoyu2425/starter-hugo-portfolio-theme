@@ -3,13 +3,8 @@ title: Xiaoyu Shan
 role: ""
 avatar_filename: _mg_7824.jpg
 bio: ""
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: about/#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/wowchemy
+social: []
+organizations: []
 superuser: true
 status:
   icon: ☕️
